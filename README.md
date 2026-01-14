@@ -11,17 +11,10 @@ Ce repo est à usage éducatif uniquement. N'utilisez ces techniques que sur des
 reconnaissance/     # OSINT, énumération, scanning
 exploitation/       # Techniques d'exploitation
 post-exploitation/  # Persistence, pivoting
-web/               # Sécurité web
-network/           # Pentest réseau
-active-directory/  # Attaques AD
-tools/             # Fiches outils
-ctf/               # Write-ups CTF/labs
-resources/         # Liens et ressources
+web/                # Sécurité web
+network/            # Pentest réseau
+active-directory/   # Attaques AD
+tools/              # Fiches outils
+ctf/                # Write-ups CTF/labs
+resources/          # Liens et ressources
 ```
-
-## Resources
-
-- [HackTheBox](https://www.hackthebox.com/)
-- [TryHackMe](https://tryhackme.com/)
-- [PortSwigger Academy](https://portswigger.net/web-security)
-- [OWASP](https://owasp.org/)
